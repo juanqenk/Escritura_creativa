@@ -22,13 +22,16 @@
 	
 <a name="cor"/>
 Corrección de textos
+
 ```
     Corrector:
     Tlf/email:
     Precio:
 ```
 <a name="core"/>
+
 Corrección de edición
+
 ```
     Corrector:
     Tlf/email:
@@ -36,6 +39,7 @@ Corrección de edición
 ```
 <a name="por"/>
 Diseño de la portada
+
 ```
     Diseñador:
     Tlf/email:
