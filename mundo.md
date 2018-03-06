@@ -6,8 +6,9 @@
 	
 
 
-<a name="1"/>
-## Lugar
+<a name="1"/> 
+
+## Lugar  
 
 Ubicación 
 ```
@@ -40,7 +41,8 @@ Vistas, sonidos y olores distintivos
 ```
 
 <a name="2"/>
-## Gente
+
+## Gente  
 
 Población
 ```
@@ -66,8 +68,9 @@ Vida familiar
 ```
 
 
-<a name="3"/>
-## Cultura
+<a name="3"/> 
+
+## Cultura   
 
 Contexto histórico
 ```
