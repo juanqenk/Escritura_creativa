@@ -12,6 +12,7 @@ Nombre y breve descripción
 - 4.- [Circunstancias y trasfondo](#5)  
 
 <a name="1"/>
+
 ## Datos personales
 
 
@@ -24,6 +25,7 @@ Nombre y breve descripción
 
 
 <a name="2"/>
+
 ## Apariencia
 
 |Apariencia|       :person_with_blond_hair:     |
@@ -50,6 +52,7 @@ Gestos
 
 
 <a name="3"/>
+
 #Habla
 
 Tono de voz
@@ -63,6 +66,7 @@ Frases favoritas
 ```
 
 <a name="4"/>
+
 ## Comportamiento
 
 Personalidad
@@ -96,6 +100,7 @@ Relación con otros
 
 
 <a name="5"/>
+
 ## Circunstancias y trasfondo
 
 Lugar de nacimiento
