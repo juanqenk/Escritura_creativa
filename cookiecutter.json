@@ -1,0 +1,34 @@
+{
+    "titulo": "Titulo de tu libro",
+    "escrito_por": "Juan Cuenca Castelló",
+    "email": "juanqenk@gmail.com",
+    "web_personal": "https://juanqenk.github.io/juan/",
+    "github_username": "juanqenk",
+    "lugar_nacimiento":"Agost, Alicante",
+    "fecha_nacimiento":"13-Abril-1982",
+    "educacion":"Biólogo, Biotecnólogo",
+    "ocupacion":"Biólogo, Técnico ambiental",
+    "genero": "Realismo mágico, Novela",  
+    "titulo_slug": "{{ cookiecutter.titulo.lower().replace(' ', '-') }}",
+    "subtitulo": "Una corta descripción de tu libro",
+    "descripcion": "Sinopsis",
+    "licencia_creative_commons": [
+	    "CC_BY",
+	    "CC_BY-NC",
+	    "CC_BY-NC-ND",
+            "CC_BY-NC-SA",
+	    "CC_BY-ND",
+	    "CC_BY-SA",
+            "CC0"
+  ],
+    "licencia_del_software": [
+	    "MIT",
+	    "BSD",
+	    "GPLv3",
+	    "Apache Software License 2.0",
+	    "Not open source"
+  ],
+    "_extensions": ["jinja2_time.TimeExtension"],
+    "release_date": "{% now 'local' %}",
+    "version": "0.1.0"
+}
